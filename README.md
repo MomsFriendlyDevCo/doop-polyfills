@@ -1,4 +1,4 @@
-@doop/service-{{FIXME}}
+@doop/polyfills
 ==================
 
-A {{FIXME}} service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
+A polyfills service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
